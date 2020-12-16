@@ -1,7 +1,8 @@
+//javacript code
 var messageJS = "Hello from JavaScript";
 console.log(messageJS);
 
-
+//typescript code
 const GREETING : string = "GOOD MORNING";
 console.log(GREETING);
 
